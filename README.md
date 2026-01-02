@@ -1,3 +1,3 @@
 # OneLinux 
-OneLinux is an Linux operating, based on Ubuntu 24.04 LTS. We give you support up to 6 years. It uses 'KDE Plazma OneLinux Edition'. The difference between KDE Plazma and our custom version is not that different.
+OneLinux is an Linux operating system, based on Ubuntu 24.04 LTS. We give you support up to 6 years. It uses 'KDE Plazma OneLinux Edition'. The difference between KDE Plazma and our custom version is not that different.
 We use custom script (it only runs while installing) to optimize the KDE experience for your hardware. Low-end hardware - reduced animations scale. High-end hardware - more animations. OneLinux also uses SDDM as display manager, because it is the best with KDE. OneLinux doesn'y have GNOME or any GNOME bloatware. VLC is the default media player. You can find more, installing it, using installation guide.
